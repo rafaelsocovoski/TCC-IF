@@ -1,0 +1,71 @@
+.jogo{
+  background-color: rgb(91, 216, 91);
+  color:#fff;
+  font-family: "Arial", sans-seif;
+  border-width: 1px 1px 1px 1px;
+  border-style: outset;
+  border-color:black;
+  border-bottom: 1px solid #dfe7f1;
+  border-radius: 0;
+  box-shadow: none;
+  outline: none;
+  color: inherit;
+  text-indent: 8px;
+  height: 42px;
+}
+.botao-jogo{
+    background-color: rgb(91, 216, 91);
+   
+    display: block;
+    width: 300px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 30px;
+    border-radius: 12px;
+    border: 1px solid black;
+    cursor: pointer;
+    color: #FFF;
+    font-family: 'Arial', sans-serif;
+    font-size: 22px;
+    padding: 16px 70px;
+    text-decoration: none;
+
+}
+
+.classeh3{
+    border-color:black;
+    border-width: 1px 1px 1px 1px;
+    border-style: outset;
+    background-color:rgb(70, 121, 70);
+}
+.ch4{
+color:blue;
+background-color:black;
+text-align: center;
+}
+h2{
+    color:#fff;
+    font-family: "Arial", sans-seif;
+    font-size:1.5em;
+    }
+h5{
+    color:black;
+    font-size: 0.80em;
+}
+    h1{
+        background-color:blue;
+        color:#fff;
+        font-family:"Arial", sans-serif;
+        font-size:2.5em; /*16=2.5em * 16= 40px*/
+        border-color:black;
+        border-width: 2px 2px 2px 2px;
+        box-shadow: 5px 5px white,10px 10px blue, 15px 15px white;
+        
+        }
+ .conhe{
+    border-width: 1px 1px 1px 1px;
+    border-style: outset;
+    border-color:black;
+  
+    background-color:white;
+        }
